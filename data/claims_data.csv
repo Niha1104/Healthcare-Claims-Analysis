@@ -1,0 +1,6 @@
+Claim_ID,Provider_ID,Procedure_Code,Procedure_Description,Submitted_Charge,Payment_Amount,Patient_Age,Patient_Gender
+101,P001,99213,Office Visit,150.0,100.0,65,F
+102,P002,99214,Extended Visit,200.0,150.0,72,M
+103,P001,99213,Office Visit,150.0,100.0,58,M
+104,P003,93000,EKG,100.0,90.0,80,F
+105,P002,99214,Extended Visit,210.0,155.0,69,F
